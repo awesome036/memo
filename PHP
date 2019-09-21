@@ -1,0 +1,3 @@
+・リダイレクトの書き方
+header("Location: welcome.html",true,301);
+

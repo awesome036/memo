@@ -1,0 +1,5 @@
+● 現在のブランチをリモートブランチにpushする
+１　プロジェクトごとに設定する場合
+$ git push --set-upstream origin ブランチ名
+２　デフォルトで設定する
+$ git config --global push.default current
